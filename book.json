@@ -1,0 +1,1302 @@
+[
+    {
+        "model": "shop_final.book",
+        "pk": 5,
+        "fields": {
+            "title": "\"Война и Мир\"\n",
+            "year": 1989,
+            "pages": 730,
+            "isnb13": "978-0-687-08403-6",
+            "rating": 0.65,
+            "price": 32.12,
+            "author": "Дементий Третьякова"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 6,
+        "fields": {
+            "title": "\"Скажи жизни да\"",
+            "year": 1953,
+            "pages": 634,
+            "isnb13": "978-0-09-260561-1",
+            "rating": 4.39,
+            "price": 16.32,
+            "author": "Варфоломей Кудрявцева"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 7,
+        "fields": {
+            "title": "\"Мидлмарч\"\n",
+            "year": 1946,
+            "pages": 701,
+            "isnb13": "978-1-66651-484-1",
+            "rating": 0.54,
+            "price": 41.56,
+            "author": "Юрий Галкина"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 8,
+        "fields": {
+            "title": "\"Скажи жизни да\"",
+            "year": 1994,
+            "pages": 366,
+            "isnb13": "978-1-200-53138-9",
+            "rating": 4.96,
+            "price": 33.25,
+            "author": "Харлампий Архипова"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 9,
+        "fields": {
+            "title": "\"Скажи жизни да\"",
+            "year": 1926,
+            "pages": 488,
+            "isnb13": "978-0-05-374882-1",
+            "rating": 2.86,
+            "price": 37.01,
+            "author": "Демьян Романова"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 10,
+        "fields": {
+            "title": "\"Война и Мир\"\n",
+            "year": 1964,
+            "pages": 244,
+            "isnb13": "978-1-4253-6768-8",
+            "rating": 2.83,
+            "price": 32.2,
+            "author": "Наталья Кулакова"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 11,
+        "fields": {
+            "title": "\"Война и Мир\"\n",
+            "year": 1959,
+            "pages": 228,
+            "isnb13": "978-1-83637-961-4",
+            "rating": 3.74,
+            "price": 35.97,
+            "author": "Назар Дорофеев"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 12,
+        "fields": {
+            "title": "\"451 градус по Фаренгейту\"\n",
+            "year": 1907,
+            "pages": 845,
+            "isnb13": "978-1-378-62973-4",
+            "rating": 0.39,
+            "price": 42.35,
+            "author": "Януарий Рябова"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 13,
+        "fields": {
+            "title": "\"Девушка с татуировкой дракона\"\n",
+            "year": 2005,
+            "pages": 822,
+            "isnb13": "978-0-7565-2492-0",
+            "rating": 2.85,
+            "price": 44.99,
+            "author": "Корнил Костин"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 14,
+        "fields": {
+            "title": "\"Мидлмарч\"\n",
+            "year": 1918,
+            "pages": 927,
+            "isnb13": "978-0-506-61870-1",
+            "rating": 2.64,
+            "price": 35.96,
+            "author": "Эдуард Веселова"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 15,
+        "fields": {
+            "title": "\"Скажи жизни да\"",
+            "year": 2018,
+            "pages": 833,
+            "isnb13": "978-0-12-938600-1",
+            "rating": 1.61,
+            "price": 35.47,
+            "author": "Устин Михеева"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 16,
+        "fields": {
+            "title": "\"Скажи жизни да\"",
+            "year": 1901,
+            "pages": 513,
+            "isnb13": "978-1-72441-263-8",
+            "rating": 4.18,
+            "price": 38.64,
+            "author": "Лора Кудряшова"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 17,
+        "fields": {
+            "title": "\"Скажи жизни да\"",
+            "year": 1927,
+            "pages": 291,
+            "isnb13": "978-0-04-466232-7",
+            "rating": 0.11,
+            "price": 29.16,
+            "author": "Владлен Шаров"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 18,
+        "fields": {
+            "title": "\"451 градус по Фаренгейту\"\n",
+            "year": 1929,
+            "pages": 804,
+            "isnb13": "978-0-940567-89-4",
+            "rating": 0.76,
+            "price": 25.64,
+            "author": "Феофан Ермаков"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 19,
+        "fields": {
+            "title": "\"Девушка с татуировкой дракона\"\n",
+            "year": 2020,
+            "pages": 401,
+            "isnb13": "978-1-918627-47-3",
+            "rating": 0.96,
+            "price": 40.73,
+            "author": "Панкратий Кулагин"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 20,
+        "fields": {
+            "title": "\"Мидлмарч\"\n",
+            "year": 1907,
+            "pages": 458,
+            "isnb13": "978-0-671-40133-7",
+            "rating": 0.06,
+            "price": 40.94,
+            "author": "Михей Александрова"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 21,
+        "fields": {
+            "title": "\"Война и Мир\"\n",
+            "year": 1984,
+            "pages": 284,
+            "isnb13": "978-0-327-96058-4",
+            "rating": 2.6,
+            "price": 25.37,
+            "author": "Лука Горбунов"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 22,
+        "fields": {
+            "title": "\"Девушка с татуировкой дракона\"\n",
+            "year": 2008,
+            "pages": 504,
+            "isnb13": "978-0-698-33626-1",
+            "rating": 2.73,
+            "price": 12.0,
+            "author": "Богдан Кузнецова"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 23,
+        "fields": {
+            "title": "\"Скажи жизни да\"",
+            "year": 1900,
+            "pages": 585,
+            "isnb13": "978-0-595-94957-1",
+            "rating": 1.1,
+            "price": 26.6,
+            "author": "Гостомысл Галкина"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 24,
+        "fields": {
+            "title": "\"451 градус по Фаренгейту\"\n",
+            "year": 1994,
+            "pages": 657,
+            "isnb13": "978-0-212-19566-4",
+            "rating": 1.94,
+            "price": 21.58,
+            "author": "Иларион Панова"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 25,
+        "fields": {
+            "title": "\"Мидлмарч\"\n",
+            "year": 1966,
+            "pages": 852,
+            "isnb13": "978-1-135-35752-8",
+            "rating": 2.87,
+            "price": 30.58,
+            "author": "Аполлинарий Кудряшов"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 26,
+        "fields": {
+            "title": "\"Девушка с татуировкой дракона\"\n",
+            "year": 1931,
+            "pages": 540,
+            "isnb13": "978-0-681-07814-7",
+            "rating": 4.74,
+            "price": 34.19,
+            "author": "Андрон Дмитриев"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 27,
+        "fields": {
+            "title": "\"451 градус по Фаренгейту\"\n",
+            "year": 1986,
+            "pages": 684,
+            "isnb13": "978-1-08-341238-6",
+            "rating": 1.49,
+            "price": 20.76,
+            "author": "Святослав Турова"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 28,
+        "fields": {
+            "title": "\"Война и Мир\"\n",
+            "year": 1966,
+            "pages": 921,
+            "isnb13": "978-1-06-987838-0",
+            "rating": 3.32,
+            "price": 35.58,
+            "author": "Арсений Уваров"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 29,
+        "fields": {
+            "title": "\"Война и Мир\"\n",
+            "year": 1989,
+            "pages": 263,
+            "isnb13": "978-1-361-86276-6",
+            "rating": 4.24,
+            "price": 28.72,
+            "author": "Аполлинарий Бобылева"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 30,
+        "fields": {
+            "title": "\"451 градус по Фаренгейту\"\n",
+            "year": 1967,
+            "pages": 739,
+            "isnb13": "978-1-00-277827-2",
+            "rating": 2.6,
+            "price": 26.22,
+            "author": "Зинаида Большаков"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 31,
+        "fields": {
+            "title": "\"Мидлмарч\"\n",
+            "year": 1954,
+            "pages": 285,
+            "isnb13": "978-1-69569-270-1",
+            "rating": 3.28,
+            "price": 23.78,
+            "author": "Сократ Голубев"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 32,
+        "fields": {
+            "title": "\"Скажи жизни да\"",
+            "year": 1954,
+            "pages": 687,
+            "isnb13": "978-1-4716-4671-3",
+            "rating": 4.26,
+            "price": 37.49,
+            "author": "Евдоким Котов"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 33,
+        "fields": {
+            "title": "\"451 градус по Фаренгейту\"\n",
+            "year": 2005,
+            "pages": 990,
+            "isnb13": "978-0-275-77958-0",
+            "rating": 4.28,
+            "price": 28.12,
+            "author": "Амвросий Беляев"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 34,
+        "fields": {
+            "title": "\"Война и Мир\"\n",
+            "year": 1984,
+            "pages": 787,
+            "isnb13": "978-1-950249-62-6",
+            "rating": 2.0,
+            "price": 34.61,
+            "author": "Остап Кудряшова"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 35,
+        "fields": {
+            "title": "\"Скажи жизни да\"",
+            "year": 1916,
+            "pages": 279,
+            "isnb13": "978-1-4372-2743-7",
+            "rating": 1.77,
+            "price": 15.4,
+            "author": "Тимофей Силин"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 36,
+        "fields": {
+            "title": "\"Девушка с татуировкой дракона\"\n",
+            "year": 1901,
+            "pages": 175,
+            "isnb13": "978-1-82227-273-8",
+            "rating": 4.93,
+            "price": 24.06,
+            "author": "Галактион Зуева"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 37,
+        "fields": {
+            "title": "\"Война и Мир\"\n",
+            "year": 1958,
+            "pages": 811,
+            "isnb13": "978-0-7095-7753-9",
+            "rating": 0.93,
+            "price": 36.47,
+            "author": "Всеслав Зуева"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 38,
+        "fields": {
+            "title": "\"451 градус по Фаренгейту\"\n",
+            "year": 1927,
+            "pages": 155,
+            "isnb13": "978-0-365-82246-2",
+            "rating": 4.94,
+            "price": 35.08,
+            "author": "Терентий Горбачев"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 39,
+        "fields": {
+            "title": "\"Мидлмарч\"\n",
+            "year": 1940,
+            "pages": 909,
+            "isnb13": "978-1-255-22335-2",
+            "rating": 3.59,
+            "price": 16.11,
+            "author": "Мартьян Фомичева"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 40,
+        "fields": {
+            "title": "\"451 градус по Фаренгейту\"\n",
+            "year": 1933,
+            "pages": 126,
+            "isnb13": "978-1-167-32570-0",
+            "rating": 3.68,
+            "price": 22.57,
+            "author": "Агафья Колесников"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 41,
+        "fields": {
+            "title": "\"Девушка с татуировкой дракона\"\n",
+            "year": 1989,
+            "pages": 495,
+            "isnb13": "978-1-83674-239-5",
+            "rating": 4.92,
+            "price": 22.02,
+            "author": "Фрол Белова"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 42,
+        "fields": {
+            "title": "\"Война и Мир\"\n",
+            "year": 1976,
+            "pages": 558,
+            "isnb13": "978-0-931497-39-1",
+            "rating": 1.81,
+            "price": 48.7,
+            "author": "Спиридон Виноградова"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 43,
+        "fields": {
+            "title": "\"Девушка с татуировкой дракона\"\n",
+            "year": 1951,
+            "pages": 131,
+            "isnb13": "978-1-63590-645-5",
+            "rating": 1.94,
+            "price": 22.75,
+            "author": "Соломон Максимов"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 44,
+        "fields": {
+            "title": "\"Девушка с татуировкой дракона\"\n",
+            "year": 1948,
+            "pages": 816,
+            "isnb13": "978-0-7764-2334-0",
+            "rating": 1.42,
+            "price": 27.2,
+            "author": "Глафира Журавлев"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 45,
+        "fields": {
+            "title": "\"Война и Мир\"\n",
+            "year": 1998,
+            "pages": 185,
+            "isnb13": "978-0-9634495-1-1",
+            "rating": 2.75,
+            "price": 41.98,
+            "author": "Октябрина Ковалева"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 46,
+        "fields": {
+            "title": "\"Мидлмарч\"\n",
+            "year": 1992,
+            "pages": 547,
+            "isnb13": "978-0-260-67428-9",
+            "rating": 4.03,
+            "price": 23.58,
+            "author": "Варлаам Богданов"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 47,
+        "fields": {
+            "title": "\"Мидлмарч\"\n",
+            "year": 2005,
+            "pages": 626,
+            "isnb13": "978-0-220-13986-5",
+            "rating": 3.48,
+            "price": 30.31,
+            "author": "Гурий Колесников"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 48,
+        "fields": {
+            "title": "\"451 градус по Фаренгейту\"\n",
+            "year": 1951,
+            "pages": 291,
+            "isnb13": "978-1-393-24845-3",
+            "rating": 4.19,
+            "price": 35.64,
+            "author": "Леонид Игнатов"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 49,
+        "fields": {
+            "title": "\"451 градус по Фаренгейту\"\n",
+            "year": 1916,
+            "pages": 358,
+            "isnb13": "978-0-462-67374-5",
+            "rating": 1.3,
+            "price": 42.5,
+            "author": "Севастьян Горбачев"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 50,
+        "fields": {
+            "title": "\"Скажи жизни да\"",
+            "year": 1906,
+            "pages": 790,
+            "isnb13": "978-0-445-18822-8",
+            "rating": 1.08,
+            "price": 25.83,
+            "author": "Тарас Юдина"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 51,
+        "fields": {
+            "title": "\"Девушка с татуировкой дракона\"\n",
+            "year": 2020,
+            "pages": 969,
+            "isnb13": "978-1-346-56986-4",
+            "rating": 1.71,
+            "price": 22.51,
+            "author": "Лукия Денисов"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 52,
+        "fields": {
+            "title": "\"Скажи жизни да\"",
+            "year": 1946,
+            "pages": 828,
+            "isnb13": "978-1-4433-0859-5",
+            "rating": 2.71,
+            "price": 48.42,
+            "author": "Варвара Титова"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 53,
+        "fields": {
+            "title": "\"Мидлмарч\"\n",
+            "year": 1982,
+            "pages": 143,
+            "isnb13": "978-1-282-70390-2",
+            "rating": 4.02,
+            "price": 32.46,
+            "author": "Остап Бобылев"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 54,
+        "fields": {
+            "title": "\"Мидлмарч\"\n",
+            "year": 1978,
+            "pages": 619,
+            "isnb13": "978-0-7634-2008-6",
+            "rating": 2.15,
+            "price": 37.9,
+            "author": "Феврония Егоров"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 55,
+        "fields": {
+            "title": "\"451 градус по Фаренгейту\"\n",
+            "year": 1939,
+            "pages": 540,
+            "isnb13": "978-0-7652-8806-6",
+            "rating": 0.48,
+            "price": 42.81,
+            "author": "Василий Казакова"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 56,
+        "fields": {
+            "title": "\"Девушка с татуировкой дракона\"\n",
+            "year": 1941,
+            "pages": 977,
+            "isnb13": "978-1-06-874292-7",
+            "rating": 0.56,
+            "price": 36.71,
+            "author": "Денис Лаврентьева"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 57,
+        "fields": {
+            "title": "\"Девушка с татуировкой дракона\"\n",
+            "year": 1979,
+            "pages": 514,
+            "isnb13": "978-0-298-56626-6",
+            "rating": 4.04,
+            "price": 49.36,
+            "author": "Гурий Абрамов"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 58,
+        "fields": {
+            "title": "\"Девушка с татуировкой дракона\"\n",
+            "year": 1932,
+            "pages": 428,
+            "isnb13": "978-1-174-57531-0",
+            "rating": 2.99,
+            "price": 15.77,
+            "author": "Амвросий Крылова"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 59,
+        "fields": {
+            "title": "\"Скажи жизни да\"",
+            "year": 1920,
+            "pages": 231,
+            "isnb13": "978-0-942922-48-6",
+            "rating": 1.23,
+            "price": 26.8,
+            "author": "Варлаам Блохин"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 60,
+        "fields": {
+            "title": "\"Девушка с татуировкой дракона\"\n",
+            "year": 1906,
+            "pages": 168,
+            "isnb13": "978-0-88180-114-9",
+            "rating": 3.38,
+            "price": 42.9,
+            "author": "Елисей Лыткин"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 61,
+        "fields": {
+            "title": "\"Девушка с татуировкой дракона\"\n",
+            "year": 1928,
+            "pages": 871,
+            "isnb13": "978-1-07-970219-4",
+            "rating": 4.07,
+            "price": 16.59,
+            "author": "Виталий Миронова"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 62,
+        "fields": {
+            "title": "\"Скажи жизни да\"",
+            "year": 1935,
+            "pages": 493,
+            "isnb13": "978-1-64388-917-7",
+            "rating": 1.11,
+            "price": 13.04,
+            "author": "Мина Федотов"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 63,
+        "fields": {
+            "title": "\"Мидлмарч\"\n",
+            "year": 1913,
+            "pages": 290,
+            "isnb13": "978-1-61331-274-2",
+            "rating": 4.6,
+            "price": 13.39,
+            "author": "Милан Блинова"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 64,
+        "fields": {
+            "title": "\"Скажи жизни да\"",
+            "year": 2003,
+            "pages": 827,
+            "isnb13": "978-1-59795-366-5",
+            "rating": 3.08,
+            "price": 21.79,
+            "author": "Гремислав Комиссаров"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 65,
+        "fields": {
+            "title": "\"451 градус по Фаренгейту\"\n",
+            "year": 1973,
+            "pages": 494,
+            "isnb13": "978-1-886083-81-3",
+            "rating": 0.16,
+            "price": 25.72,
+            "author": "Фёкла Гришин"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 66,
+        "fields": {
+            "title": "\"Скажи жизни да\"",
+            "year": 1921,
+            "pages": 454,
+            "isnb13": "978-1-7334564-4-9",
+            "rating": 3.91,
+            "price": 17.57,
+            "author": "Виссарион Копылов"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 67,
+        "fields": {
+            "title": "\"Скажи жизни да\"",
+            "year": 1946,
+            "pages": 268,
+            "isnb13": "978-0-428-81483-0",
+            "rating": 4.56,
+            "price": 45.9,
+            "author": "Леонид Калинин"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 68,
+        "fields": {
+            "title": "\"Мидлмарч\"\n",
+            "year": 1978,
+            "pages": 127,
+            "isnb13": "978-0-7419-3349-2",
+            "rating": 0.41,
+            "price": 30.18,
+            "author": "Устин Белова"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 69,
+        "fields": {
+            "title": "\"Девушка с татуировкой дракона\"\n",
+            "year": 2010,
+            "pages": 261,
+            "isnb13": "978-1-169-03775-5",
+            "rating": 4.94,
+            "price": 47.61,
+            "author": "Леон Архипов"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 70,
+        "fields": {
+            "title": "\"451 градус по Фаренгейту\"\n",
+            "year": 1926,
+            "pages": 654,
+            "isnb13": "978-1-68397-472-7",
+            "rating": 4.36,
+            "price": 20.23,
+            "author": "Ксения Горшков"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 71,
+        "fields": {
+            "title": "\"Мидлмарч\"\n",
+            "year": 2000,
+            "pages": 475,
+            "isnb13": "978-0-08-996059-4",
+            "rating": 0.32,
+            "price": 49.29,
+            "author": "Януарий Блинова"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 72,
+        "fields": {
+            "title": "\"Скажи жизни да\"",
+            "year": 1918,
+            "pages": 144,
+            "isnb13": "978-1-267-42439-6",
+            "rating": 0.91,
+            "price": 11.94,
+            "author": "Регина Воронцова"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 73,
+        "fields": {
+            "title": "\"Мидлмарч\"\n",
+            "year": 1922,
+            "pages": 343,
+            "isnb13": "978-0-00-090377-8",
+            "rating": 3.12,
+            "price": 20.24,
+            "author": "Фёкла Елисеева"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 74,
+        "fields": {
+            "title": "\"Война и Мир\"\n",
+            "year": 1918,
+            "pages": 177,
+            "isnb13": "978-0-530-53980-5",
+            "rating": 0.53,
+            "price": 38.35,
+            "author": "Элеонора Андреева"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 75,
+        "fields": {
+            "title": "\"Девушка с татуировкой дракона\"\n",
+            "year": 1967,
+            "pages": 512,
+            "isnb13": "978-1-265-44049-7",
+            "rating": 3.55,
+            "price": 44.05,
+            "author": "Екатерина Дорофеев"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 76,
+        "fields": {
+            "title": "\"Мидлмарч\"\n",
+            "year": 1986,
+            "pages": 962,
+            "isnb13": "978-0-7639-6485-6",
+            "rating": 2.59,
+            "price": 36.54,
+            "author": "Александр Исаков"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 77,
+        "fields": {
+            "title": "\"Война и Мир\"\n",
+            "year": 1907,
+            "pages": 383,
+            "isnb13": "978-0-468-78608-1",
+            "rating": 4.24,
+            "price": 22.62,
+            "author": "Зоя Николаева"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 78,
+        "fields": {
+            "title": "\"Война и Мир\"\n",
+            "year": 1905,
+            "pages": 754,
+            "isnb13": "978-1-951975-79-1",
+            "rating": 0.61,
+            "price": 22.79,
+            "author": "Еремей Игнатова"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 79,
+        "fields": {
+            "title": "\"Девушка с татуировкой дракона\"\n",
+            "year": 1967,
+            "pages": 820,
+            "isnb13": "978-0-214-66739-8",
+            "rating": 2.08,
+            "price": 21.65,
+            "author": "Александр Гаврилова"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 80,
+        "fields": {
+            "title": "\"Война и Мир\"\n",
+            "year": 1980,
+            "pages": 869,
+            "isnb13": "978-1-5173-7762-5",
+            "rating": 1.73,
+            "price": 43.33,
+            "author": "Аристарх Бурова"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 81,
+        "fields": {
+            "title": "\"Мидлмарч\"\n",
+            "year": 1921,
+            "pages": 315,
+            "isnb13": "978-1-66610-097-6",
+            "rating": 2.68,
+            "price": 42.7,
+            "author": "Сократ Тимофеева"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 82,
+        "fields": {
+            "title": "\"Война и Мир\"\n",
+            "year": 2008,
+            "pages": 100,
+            "isnb13": "978-0-420-32497-9",
+            "rating": 4.69,
+            "price": 47.44,
+            "author": "Евстигней Шубина"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 83,
+        "fields": {
+            "title": "\"451 градус по Фаренгейту\"\n",
+            "year": 1913,
+            "pages": 312,
+            "isnb13": "978-1-929664-23-8",
+            "rating": 3.51,
+            "price": 33.73,
+            "author": "Тит Белозеров"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 84,
+        "fields": {
+            "title": "\"Война и Мир\"\n",
+            "year": 2012,
+            "pages": 682,
+            "isnb13": "978-1-972534-14-4",
+            "rating": 2.65,
+            "price": 39.61,
+            "author": "Ия Филатов"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 85,
+        "fields": {
+            "title": "\"Война и Мир\"\n",
+            "year": 2000,
+            "pages": 500,
+            "isnb13": "978-1-55163-176-9",
+            "rating": 1.76,
+            "price": 46.58,
+            "author": "Твердислав Бурова"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 86,
+        "fields": {
+            "title": "\"Мидлмарч\"\n",
+            "year": 1991,
+            "pages": 716,
+            "isnb13": "978-1-957776-30-9",
+            "rating": 1.73,
+            "price": 37.79,
+            "author": "Ладислав Турова"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 87,
+        "fields": {
+            "title": "\"Девушка с татуировкой дракона\"\n",
+            "year": 2002,
+            "pages": 740,
+            "isnb13": "978-0-370-74122-2",
+            "rating": 3.67,
+            "price": 32.05,
+            "author": "Самсон Соколов"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 88,
+        "fields": {
+            "title": "\"451 градус по Фаренгейту\"\n",
+            "year": 1907,
+            "pages": 906,
+            "isnb13": "978-1-889856-49-0",
+            "rating": 0.95,
+            "price": 43.87,
+            "author": "Анастасия Веселова"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 89,
+        "fields": {
+            "title": "\"Мидлмарч\"\n",
+            "year": 1982,
+            "pages": 570,
+            "isnb13": "978-0-560-86228-7",
+            "rating": 3.69,
+            "price": 34.11,
+            "author": "Фока Ефремова"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 90,
+        "fields": {
+            "title": "\"Война и Мир\"\n",
+            "year": 2012,
+            "pages": 565,
+            "isnb13": "978-0-947135-65-2",
+            "rating": 3.51,
+            "price": 25.42,
+            "author": "Аникей Кудрявцева"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 91,
+        "fields": {
+            "title": "\"Мидлмарч\"\n",
+            "year": 2014,
+            "pages": 488,
+            "isnb13": "978-1-219-92210-9",
+            "rating": 1.61,
+            "price": 28.83,
+            "author": "Любовь Лобанова"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 92,
+        "fields": {
+            "title": "\"Война и Мир\"\n",
+            "year": 1928,
+            "pages": 357,
+            "isnb13": "978-0-534-85106-4",
+            "rating": 3.89,
+            "price": 31.86,
+            "author": "Ермолай Симонова"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 93,
+        "fields": {
+            "title": "\"Мидлмарч\"\n",
+            "year": 1937,
+            "pages": 360,
+            "isnb13": "978-0-202-40504-9",
+            "rating": 2.13,
+            "price": 29.91,
+            "author": "Федот Носков"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 94,
+        "fields": {
+            "title": "\"Скажи жизни да\"",
+            "year": 2006,
+            "pages": 893,
+            "isnb13": "978-0-662-34254-0",
+            "rating": 0.94,
+            "price": 24.27,
+            "author": "Мартын Родионов"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 95,
+        "fields": {
+            "title": "\"Скажи жизни да\"",
+            "year": 1966,
+            "pages": 332,
+            "isnb13": "978-0-609-94232-1",
+            "rating": 0.26,
+            "price": 19.0,
+            "author": "Леон Лаврентьева"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 96,
+        "fields": {
+            "title": "\"Война и Мир\"\n",
+            "year": 1987,
+            "pages": 717,
+            "isnb13": "978-0-245-74256-9",
+            "rating": 0.65,
+            "price": 41.61,
+            "author": "Конон Мельникова"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 97,
+        "fields": {
+            "title": "\"451 градус по Фаренгейту\"\n",
+            "year": 1985,
+            "pages": 843,
+            "isnb13": "978-0-89753-404-8",
+            "rating": 2.58,
+            "price": 30.92,
+            "author": "Екатерина Антонов"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 98,
+        "fields": {
+            "title": "\"Девушка с татуировкой дракона\"\n",
+            "year": 1903,
+            "pages": 567,
+            "isnb13": "978-0-08-409348-8",
+            "rating": 1.36,
+            "price": 32.81,
+            "author": "Афанасий Нестеров"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 99,
+        "fields": {
+            "title": "\"Мидлмарч\"\n",
+            "year": 1930,
+            "pages": 501,
+            "isnb13": "978-0-335-92752-4",
+            "rating": 0.46,
+            "price": 44.97,
+            "author": "Сергей Вишнякова"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 100,
+        "fields": {
+            "title": "\"Мидлмарч\"\n",
+            "year": 1943,
+            "pages": 505,
+            "isnb13": "978-0-350-73283-7",
+            "rating": 3.24,
+            "price": 30.74,
+            "author": "Лаврентий Суворов"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 101,
+        "fields": {
+            "title": "\"Скажи жизни да\"",
+            "year": 1992,
+            "pages": 872,
+            "isnb13": "978-0-646-67015-7",
+            "rating": 4.11,
+            "price": 18.18,
+            "author": "Устин Нестерова"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 102,
+        "fields": {
+            "title": "\"451 градус по Фаренгейту\"\n",
+            "year": 1934,
+            "pages": 647,
+            "isnb13": "978-1-4541-9969-4",
+            "rating": 1.78,
+            "price": 40.65,
+            "author": "Варвара Меркушева"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 103,
+        "fields": {
+            "title": "\"Война и Мир\"\n",
+            "year": 2011,
+            "pages": 271,
+            "isnb13": "978-0-7866-6795-6",
+            "rating": 2.31,
+            "price": 49.53,
+            "author": "Евстафий Евдокимов"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 104,
+        "fields": {
+            "title": "\"Мидлмарч\"\n",
+            "year": 1942,
+            "pages": 355,
+            "isnb13": "978-1-247-59177-3",
+            "rating": 1.24,
+            "price": 27.45,
+            "author": "Мина Егорова"
+        }
+    }
+]
